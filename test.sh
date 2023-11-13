@@ -587,10 +587,10 @@ echo "==========================================================================
 echo "-------------------------------- CHECK IPTABLES --------------------------------"
 echo "================================================================================"
 echo ""
-sudo iptables -A INPUT -j LOG
-sudo iptables -A OUTPUT -j LOG
-sudo iptables -A INPUT -j REJECT
-sudo iptables -A INPUT -j DROP
+# sudo iptables -A INPUT -j LOG
+# sudo iptables -A OUTPUT -j LOG
+# sudo iptables -A INPUT -j REJECT
+# sudo iptables -A INPUT -j DROP
 echo "Please manually fix all of iptables's rules !"
 
 echo ""
