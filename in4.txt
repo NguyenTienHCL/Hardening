@@ -1,3 +1,5 @@
 poc_paloalto_2024
 $ZVgOS9686O
 poc-paloalto-2024-2jgdl2hlck
+
+http://docs.sirc.viettel.com/review-security/guide_config_commandlog/
