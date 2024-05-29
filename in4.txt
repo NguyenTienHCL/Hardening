@@ -3,3 +3,5 @@ $ZVgOS9686O
 poc-paloalto-2024-2jgdl2hlck
 
 http://docs.sirc.viettel.com/review-security/guide_config_commandlog/
+
+https://vnc.viettelcloud.vn/vn-central-1/vnc_lite.html?path=vn-central-1/websockify?token=0310fa91-e806-4b27-9780-2e7d03999dc4
