@@ -8,3 +8,8 @@ https://vnc.viettelcloud.vn/vn-central-1/vnc_lite.html?path=vn-central-1/websock
 
 
 SR_VN_20240530_1103256
+
+
+Account: poc_thync
+Password: ^iD^)b0ff430&ke^b5m1
+ID project: poc-thync-zpeq133x33
