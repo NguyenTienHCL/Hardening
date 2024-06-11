@@ -13,3 +13,5 @@ SR_VN_20240530_1103256
 Account: poc_thync
 Password: ^iD^)b0ff430&ke^b5m1
 ID project: poc-thync-zpeq133x33
+
+SR_VN_20240611_1113309
