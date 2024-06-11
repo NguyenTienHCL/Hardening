@@ -17,3 +17,6 @@ ID project: poc-thync-zpeq133x33
 SR_VN_20240611_1113309
 
 nghinq2/spJqGccNcbdoY4r
+
+user: convertcloud@vsphere.local
+pass: Vna@111666$
